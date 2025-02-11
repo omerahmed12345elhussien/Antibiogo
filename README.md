@@ -3,11 +3,11 @@
 This project is an attempt to replace the image processing module ([Improc](https://github.com/mpascucci/AST-image-processing/tree/master?tab=readme-ov-file)) in [[1](https://www.nature.com/articles/s41467-021-21187-3)] from classical image processing approaches to ML one. 
 
 Content overview:
-- [Basic concepts](#mlo-getting-started-with-the-epfl-clusters)
+- [Basic concepts](#basic-concepts)
 - [Current Improc](#current-improc)
 - [Proposed approach](#proposed-approach)
   - [1: Semantic segmentation](#1-semantic-segmentation)
-  - [2: Data collection](#2-data-collection)
+  - [2: Data collection](#2-data-collection-and-preparation)
   - [Installation](#installation)
 - [References](#references)
 
